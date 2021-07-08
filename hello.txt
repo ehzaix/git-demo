@@ -7,14 +7,12 @@ hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git! master test
 hello atguigu!hello git! hot-fix
-<<<<<<< HEAD
-
 hello atguigu!hello git! hot-fix
 hello atguigu!hello git! hot-fix
 hello atguigu!hello git! hot-fix
 
 
 
-=======
 111111
->>>>>>> 864f348cc1f6b2cc3ec2134e8bb1c1d94f65b53c
+222222 by xz
+33333
